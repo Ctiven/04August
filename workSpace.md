@@ -8,3 +8,6 @@
 
 there is info from main branch
 new code from some jun
+
+
+Конфликт 13 строки, инициализация
