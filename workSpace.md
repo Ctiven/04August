@@ -9,4 +9,4 @@
 
 я хочу мало делать и много денег
 
-there is a new code from junior programmer
+absolutely new functional
