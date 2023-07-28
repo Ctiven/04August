@@ -9,4 +9,4 @@
 
 я хочу мало делать и много денег
 
-absolutely new functional
+there is info from main branch
